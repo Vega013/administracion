@@ -10,4 +10,4 @@ Normas
 
 Puedes encontrar todas las normas [aquí][normas].
 
-[normas]: normas "Normas"
+[normas]: normas.md "Normas"
