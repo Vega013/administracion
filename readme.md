@@ -20,8 +20,7 @@ Roleplay
 Aportaciones
 --------------------------------------------------------------------------------
 
-Todas las aportaciones, tanto a las normas como a la mision de tanoa funcionan
-por medio de pull requests en github.
+Todas las aportaciones funcionan por medio de pull requests en github.
 
 Para que tu aportacion sea aceptada, debera cumplir las siguientes condiciones:
 
